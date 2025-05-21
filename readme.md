@@ -6,7 +6,7 @@
 2.   Data Visualization
 3.   Machine Learning Modeling
 
-** Algorithms Used**
+**Algorithms Used**
 
 1.  Logistic Regression
 
@@ -16,7 +16,7 @@
 1.   Accuracy Score
 2.   Precision Score
 
-**Guide Lines**
+## **Guide Lines**
 
 **Packages and Tools Required:**
 
@@ -37,4 +37,4 @@
 6. pip install gttS
 
 
-Dataset link: "https://www.kaggle.com/datasets/mathchi/diabetes-data-set/data"
+### Dataset link: "https://www.kaggle.com/datasets/mathchi/diabetes-data-set/data"
